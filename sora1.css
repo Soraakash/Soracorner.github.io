@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /*  width: 100%;*/
+      height: 3000px;
+      background-image: url("07.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      
+       
+  }
+  header{
+      
+      font-family: 'Cutive', serif;
+      color: darkblue;
+      font-size: 50px;
+      font-weight: 300;
+      margin: 0px;
+      padding: 20px;
+      
+  }
+  .logo{
+      box-sizing: border-box;
+      height: 80px;
+      width: 80px;
+      clip-path: circle(50% at 50% 50%);
+  }
+  
+  nav a{
+      color: white;
+      text-decoration: none;
+      font-size: 20px;
+      margin: 20px;
+      color: darkblue;
+      
+      
+  }
+  nav{
+      background-color:skyblue;
+      padding: 10px; 
+  }
+  nav a:hover{
+      color:tomato;
+  }
+  .phrase{
+      font-family: cursive;
+      color: white;
+      font-size: 40px;
+      padding: 5px;
+      font-style: oblique;
+      
+  }
+  .box1{
+      font-size: 25px;
+      color:white;
+  }
+  ._box1{
+      font-size: 40px;
+      color: white;
+      font-style: italic;
+  }
+  
+  ._vid1{
+      padding: 5px;
+      margin: 10px;
+  }
+  ._vid2{
+      padding: 5px;
+      margin: 10px;
+  }
+  
+  h2{
+      
+      font-size: 50px;
+      padding: 20px;
+      font-style: oblique;
+      color: chocolate;
+  }
+  ._art{
+      padding-right: 5px;
+      margin: 13px;
+  
+  }
+  .more{
+      text-align: right;
+      font-size: 20px;
+      color: white;
+      padding: 0px 12px;
+  }
+  ._phot1{
+      padding: 5px;
+      margin: 10px;
+  }
+  ._phot2{
+      padding: 8px;
+      margin: 17px;
+  }      
+  .creator{
+      color:darkblue;
+      font-family: cursive;
+  }
+  .aksh{
+      font-size: 40px;
+      color: white;
+  }
+  .soc1{
+      margin: 15px;
+  }
+  .soc2{
+      margin: 15px;
+  }
+  .soc3{
+      margin: 15px;
+  }
+  div a{
+      color: white;
+      font-size: 20px;
+      text-decoration: none;
+  }
+  .description{
+      box-sizing: content-box;
+      width: 400px;
+      font-size: 18px;
+      color: white;
+      margin: 10px;
+      padding: 20px;
+      
+  }
+  footer{
+      background-color:skyblue;
+      padding: 15px;
+      width: 100%;
+  }
+  footer a{
+      color: darkblue;
+      text-decoration: none;
+      font-size: 20px;
+  }
